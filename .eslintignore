@@ -1,0 +1,7 @@
+/build-utils/**
+/production/**
+/node_modules/**
+**/node_modules/**
+**/node_modules/
+/src/SingleDate.jsx
+**/*/*.test.js

@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://localhost:7070",
+  "integrationFolder": "cypress/e2e",
+  "reporter": "junit",
+  "viewportHeight": 900,
+  "viewportWidth": 1600,
+  "reporterOptions": {
+    "mochaFile": "cypress/results/test-development-output.xml",
+    "toConsole": true
+  }
+}
